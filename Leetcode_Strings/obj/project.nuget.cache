@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5txRpn78xNJxRfAQH3GZUrzd1Oz601pan9bGC6yayNT2bCK6bdXJv/HmNCjEXTuRRqXn8LV2v4JF34AbiqXDWw==",
+  "success": true,
+  "projectFilePath": "C:\\$Algorithm&DS\\Leetcode_Strings\\Leetcode_Strings\\Leetcode_Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
